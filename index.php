@@ -10,5 +10,6 @@
     <h1>Soy el archivo index</h1>
     <h1>Soy el archivo index</h1>
      <h1>Soy el archivo index modificado desde github remoto</h1>
+     <h2>Esta modificacion es desde Visual Studio Code local</h2>
 </body>
 </html>
